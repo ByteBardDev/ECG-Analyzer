@@ -1,3 +1,11 @@
+
+streamlit
 opencv-python-headless
+numpy
 scikit-image
+matplotlib
+neurokit2
+fpdf
+plotly
+pandas
 
